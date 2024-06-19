@@ -1,0 +1,28 @@
+
+.card {
+    padding: 2em;
+  }
+  
+  .read-the-docs {
+    color: #888;
+  }
+
+
+  .book-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 300px; 
+  }
+  
+  .book-details {
+    margin-top: 10px;
+  }
+  
+  .book-cover img {
+    width: 100%; 
+    height: auto; 
+  }
+  
+  .delete-btn{
+    bottom: 0px;
+  }
